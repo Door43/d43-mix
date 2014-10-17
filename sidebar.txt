@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mix:home|Door43 (mix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mix|d43-mix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mix/archive/master.zip|d43-mix.zip]]
+
+**Recent Changes**
+{{changes>ns = mix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mix|Ethnologue data]]
+
